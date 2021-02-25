@@ -1,0 +1,89 @@
+/* FONTS AND COLOURS ONLY */
+
+body{
+  height: 100%;
+  background: rgb(240, 240, 240);
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+}
+
+h1{
+  font-family: 'Alata', sans-serif;
+  font-size: 56px;
+  color: rgb(128, 128, 128);
+  /* border: 5px solid green; */
+  /* padding: 10px; */
+}
+
+h2{
+  font-family: 'Archivo', sans-serif;
+  font-size: 32px ;
+  color: rgb(50,50,50);
+  /* font-weight: 400 */
+}
+
+p{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 16px;
+  color: rgb(20,20,20)
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Archivo', sans-serif;
+  font-size: 20px ;
+}
+
+a:hover{
+  color: aquamarine;
+  font-size: 24px;
+}
+
+/* SOME CUSTOM DESIGNS */
+
+#banner{
+  background-color: rgb(220,220,220);
+  background-image: url("images/IndiaBWdark.png");
+  text-align: center;
+  background-size: cover;
+  padding: 80px 80px 160px 80px;
+  /* padding: 160px 291px 427px 40px; */
+  margin: 0;
+}
+
+#banner h1{
+  color: aliceblue;
+  font-size: 48px;
+}
+
+#banner h2{
+  font-size: 32px;
+  font-weight: lighter;
+  color: aliceblue;
+  opacity: 0.7;
+  margin: 54px 0px 115px 0px;
+}
+
+article{
+  width: 800px;
+  margin: 0 auto;
+  text-align: justify;
+  padding: 56px 120px;
+}
+
+
+footer{
+  background-color: rgb(150, 150, 150);
+  border: 5px solid rgb(149, 149, 149);
+  margin-top: 40px;
+}
+
+i.fab {
+  font-size: 32px;
+  border: 1px solid red;
+}
+
+i.fab:hover {
+  color: darkgray;
+}
