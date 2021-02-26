@@ -52,11 +52,12 @@ a{
   text-decoration: none;
   font-family: 'Archivo', sans-serif;
   font-size: 20px ;
+  color: darkgray;
 }
 
 a:hover{
-  color: aquamarine;
-  font-size: 24px;
+  color: rgb(61, 76, 141);
+  font-size: 22px;
 }
 
 /* SOME CUSTOM DESIGNS */
