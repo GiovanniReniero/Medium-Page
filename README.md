@@ -10,10 +10,10 @@ A statis landing page built on HTML and CSS built to practice basic HTML andd CS
 Current HTML 5 and CSS 3.
 
 ## Setup
-Dowload all files and then drag the index.html file into any browser of your choice. My personal favourite is Brave which is built on Chrome tech.
+Dowload all files and then drag the index.html file into any browser that supports HTML 5 and CSS 3. No Bootstrap used!
 
 ## Status 
-Minor updates on going.
+Minor updates ongoing.
 
 ## Inspirtion
 To practice some basic front end design features 😀
