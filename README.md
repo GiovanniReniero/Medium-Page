@@ -1,7 +1,7 @@
 # Medium-Page
 
 ##General info
-A statis landing page built on HTML and CSS built to practice basic HTML andd CSS design features. Icons from Fonts Awesome. The page is responsive, it adapts to different screen sizes on different devices. 
+A statis landing page built on HTML and CSS built to practice basic HTML andd CSS design features. Icons from Fonts Awesome. 
 
 ## Screenshot
 ![Example screenshot](./images/medium_screen_shot.png)
